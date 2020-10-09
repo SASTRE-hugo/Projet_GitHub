@@ -11,6 +11,8 @@ namespace Projet_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("hello, bonjour , Guten tag , bonjourno");
+            Console.WriteLine("J'ai 21 ans");
+            // hugo
 
         }
     }
