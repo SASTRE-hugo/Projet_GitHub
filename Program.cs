@@ -12,7 +12,9 @@ namespace Projet_GitHub
         {
             Console.WriteLine("hello, bonjour , Guten tag , bonjourno");
             Console.WriteLine("J'ai 21 ans");
-            // hugo
+            // hugo j'ai 21 ans 
+            // allez l'om !
+            // je garde cette version 
 
         }
     }
